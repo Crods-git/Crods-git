@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="center">Connect:</h3>** 
-<p align="center"><a href="https://github.com/crodsinbox" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="linkedin.com/in/chris-rodriguez-a6b66389/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="crodsinbox@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a></p>
+<p align="center"><a href="https://github.com/Crods-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="linkedin.com/in/chris-rodriguez-a6b66389/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> </p>
 
  **<h3 align="left">Infornation Security </h3>**
 
