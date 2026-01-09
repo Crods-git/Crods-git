@@ -59,14 +59,12 @@
   
 | Projects  | Expertise Highlight |
 | --- | --- |
-| [Security Controls and Compliance Evaluation](https://)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| [Network Security](https://)  | `TCP/IP model, Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
-| [Linux & SQL](https://gitL)  | `Command-line Interface`, `SQL`, `Linux, Bash` |
+| [Home Security Lab](https://)  | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
 | [Assets, Threats, & Vulnerabilities](https://)  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
-| [Detection & Response](https://g)  | `Incident Lifecycle`, `Incident Journal` |
-| [Tcpdump & Wireshark](https://gi)  | `Packet Analyzer` |
-| [IDS & SIEM](https://github.c)  | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle`, `Splunk` |
-| [Automation with Python](https://gith) | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
+| [Documentation Repo](https://g)  | `Incident Lifecycle`, `Incident Journal` |
+| [AI Analyst Assistant](https://gi)  | `Packet Analyzer` |
+| [AI SOC Playbooks](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Python Malware Automation](https://gith) | Automated malware analysis with Python. Integrates VirusTotal API and signature detection. |
 
 ---
 
@@ -80,10 +78,7 @@
   🧠 <a href=hlink">View the KnowledgeBase Repository</a>
 </p>
 
-- ☁️ [Cloudflare DoH Setup](https://github.com/jsom98/KnowledgeBase/blob/main/cloudflare-doh-setup.md)  
-- 🛡️ [Pi-hole Setup & Configuration](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-setup.md)  
-- 🔐 [Unbound with Pi-hole (Recursive DNS)](https://github.com/jsom98/KnowledgeBase/blob/main/pihole-unbound-setup.md)  
-- 📡 [Static IP Setup – Raspberry Pi](https://github.com/jsom98/KnowledgeBase/blob/main/raspberry-pi-static-ip-setup.md)
+- ☁️ [Setup](httup.md)  
 
 ---
 
