@@ -57,7 +57,7 @@
   🧠 <a href=hlink">Projects Portfolio</a>
 </p>
   
-| Projects  | Expertise Highlight |
+| Projects  | Goals |
 | --- | --- |
 | [Home Security Lab](https://)  | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
 | [Assets, Threats, & Vulnerabilities](https://)  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
