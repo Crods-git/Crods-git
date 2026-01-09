@@ -49,13 +49,24 @@
 
 ### <div align="center">🔥 Projects That Tell My Story</div>
 
-- 👨🏾‍💻 [Azure Honeynet](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Honeynet.md)  
-- 🧠 [KQL Alerts for Microsoft Sentinel](https://github.com/jsom98/Azure-Projects/blob/main/KQL%20Alerts%20for%20Microsoft%20Sentinel.md)  
-- 🚨 [Incident Response Playbooks](https://github.com/jsom98/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel.md)  
-- 🧹 [Azure 24-Hour Cleanup](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER.md)  
-- 🔐 [OpenVAS + Azure](https://github.com/jsom98/Azure-Projects/blob/main/OpenVAS.md)  
-- 📋 [RBAC Reports](https://github.com/jsom98/Azure-Projects/blob/main/Users%20and%20Permissions%20Report.md)  
-- 🛡️ [Qualys Deployment](https://github.com/jsom98/Azure-Projects/blob/main/Qualys.md)
+<p align="center">
+  A curated and evolving hub of technical documentation for cyber security, infrastructure, and automations.<br>
+</p>
+
+<p align="center">
+  🧠 <a href=hlink">Projects Portfolio</a>
+</p>
+  
+| Projects  | Expertise Highlight |
+| --- | --- |
+| [Security Controls and Compliance Evaluation](https://)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [Network Security](https://)  | `TCP/IP model, Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
+| [Linux & SQL](https://gitL)  | `Command-line Interface`, `SQL`, `Linux, Bash` |
+| [Assets, Threats, & Vulnerabilities](https://)  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
+| [Detection & Response](https://g)  | `Incident Lifecycle`, `Incident Journal` |
+| [Tcpdump & Wireshark](https://gi)  | `Packet Analyzer` |
+| [IDS & SIEM](https://github.c)  | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle`, `Splunk` |
+| [Automation with Python](https://gith) | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
 
 ---
 
