@@ -4,8 +4,8 @@
 ### <div align="center">👨🏾‍💻 About Me</div>
 
 - **Name:** Chris Rodriguez
-- I'm currently working on: **💻 Developing a home security monitoring network and lab **
-- I'm currently learning: **📚 Machine Learning and LLM's**
+- I'm currently working on: Developing a home security monitoring network and lab
+- I'm currently learning: AI and AI security
 - **Focus Areas:**
   - Security Operations
   - Threat Detection
@@ -16,7 +16,7 @@
   - 🍳 Cooking like a pro  
   - 🎮 Hiking  
 
-> 🎯 I’m passionate about simplifying complex problems, fortifying digital systems, and mentoring others in the process. Every alert has a root. I dig until I find it.
+> 🎯 I’m passionate about simplifying complex problems, fortifying digital systems, and mentoring others in the process.
 
 ---
 
