@@ -54,15 +54,14 @@
 </p>
 
 <p align="center">
-  🧠 <a href=hlink">Projects Portfolio</a>
+  🧠 <a href=hlink">Cyber Security Projects Repo</a>
 </p>
   
 | Projects  | Goals |
 | --- | --- |
 | [Home Security Lab](https://)  | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
-| [Assets, Threats, & Vulnerabilities](https://)  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
-| [Documentation Repo](https://g)  | `Incident Lifecycle`, `Incident Journal` |
-| [AI Analyst Assistant](https://gi)  | `Packet Analyzer` |
+| [Documentation Repo](https://g)  | Useful templates for documentation, operations and response plans. |
+| [AI Analyst Assistant](https://gi)  | AI bot that assists with investigations |
 | [AI SOC Playbooks](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
 | [Python Malware Automation](https://gith) | Automated malware analysis with Python. Integrates VirusTotal API and signature detection. |
 
