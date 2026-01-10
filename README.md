@@ -4,19 +4,19 @@
 ### <div align="center">👨🏾‍💻 About Me</div>
 
 - **Name:** Chris Rodriguez
-- I'm currently working on: Developing a home security monitoring network and lab
-- I'm currently learning: AI and AI security
-- **Focus Areas:**
-  - Security Operations
-  - Threat Detection
-  - AI Security
-  - Automation & Orchestration 
+- I'm currently working on: Implementing a security monitoring network and lab
+- I'm currently learning: AI security and automation workflows
+- **Current Interests:**
+  - AI led Security Operations
+  - MacOS Threat Detection
+  - AI Security & Privacy
+  - Workflow Automation 
 - **Hobbies:**
   - 🛠️ Learning AI 
   - 🍳 Cooking like a pro  
   - 🎮 Hiking  
 
-> 🎯 I’m passionate about simplifying complex problems, fortifying digital systems, and mentoring others in the process.
+> 🎯 I’m passionate about all things cyber security, maturing and standardizing processess, fortifying digital systems, and mentoring others in the process.
 
 ---
 
@@ -50,11 +50,11 @@
 ### <div align="center">🔥 Projects That Tell My Story</div>
 
 <p align="center">
-  A curated and evolving hub of technical documentation for cyber security, infrastructure, and automations.<br>
+  A curated and evolving hub of technical documentation for security operations, infrastructure, and automations.<br>
 </p>
 
 <p align="center">
-  🧠 <a href=hlink">Cyber Security Projects Repo</a>
+  🧠 <a href=hlink">Cyber Security Projects</a>
 </p>
   
 | Projects  | Goals |
@@ -70,7 +70,7 @@
 ### <div align="center">📚 My KnowledgeBase </div>
 
 <p align="center">
-  A curated and evolving hub of technical documentation for cyber security, infrastructure, and automations.<br>
+  A curated and evolving hub of technical documentation for security operations, infrastructure, and automations.<br>
 </p>
 
 <p align="center">
