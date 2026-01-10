@@ -54,16 +54,17 @@
 </p>
 
 <p align="center">
-  🧠 <a href=hlink">Cyber Security Projects</a>
+  🧠 <a href=hlink">Cyber Security Projects Portfolio</a>
 </p>
   
 | Projects  | Goals |
 | --- | --- |
 | [Home Security Lab](https://)  | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
-| [Documentation Repo](https://g)  | Useful templates for documentation, operations and response plans. |
-| [AI Analyst Assistant](https://gi)  | AI bot that assists with investigations |
-| [AI SOC Playbooks](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Python Malware Automation](https://gith) | Automated malware analysis with Python. Integrates VirusTotal API and signature detection. |
+| [Running Apps in Containers](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [SC Python Automations](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [AI Security Bot](https://gi)  | AI bot that assists with investigations |
+| [Knowledge Base](https://g)  | Useful templates for documentation, operations and response plans. |
+| [AI Generated SOC Playbooks](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
 
 ---
 
@@ -76,8 +77,12 @@
 <p align="center">
   🧠 <a href=hlink">View the KnowledgeBase Repository</a>
 </p>
-
-- ☁️ [Setup](httup.md)  
+| Projects  | Goals |
+| --- | --- |
+| [Knowledge Base](https://)  | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
+| [Notebook LLM](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Documentation Repo](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Configs & Tools](https://gi)  | AI bot that assists with investigations |
 
 ---
 
