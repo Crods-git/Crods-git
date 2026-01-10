@@ -50,32 +50,29 @@
 ### <div align="center"> Cyber Security Projects Portfolio</div>
 
 <p align="center">
-  Projects That Tell My Story
-</p>
+  My cybersecurity portfolio highlights projects that tell my story. The primary goal of this portfolio is to demonstrate a holistic understanding of cybersecurity principles and the practical application of various tools and methodologies to protect digital assets..</p>
   
-| Projects  | Goals |
+| Topic  | Goals |
 | --- | --- |
-| [Home Security Lab] | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
-| [Running Apps in Containers] | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Python Automations for SecOps] | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [AI Security Bot] | AI bot that assists with investigations |
-| [Knowledge Base]| Useful templates for documentation, operations and response plans. |
-| [AI Generated Playbooks]  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Security Lab] | Integration of secyruty monitoring tools nad SIEM platform to monitor and analyze security events in real-time and simulate events. |
+| [Automations] | Development of Python scripts to automate repetitive tasks, enhancing efficiency in security operations. |
+| [AL-led Detection and Response] | Deployment of tools for detection and analysis, and implementation of AI Bot. |
+| [Assets and controls] | Implementation of cybersecurity frameworks to establish robust security controls and conduct thorough audits.
+| [Learning Hub]| Development of personal knowledge hub with digital notes, templates and response plans and continuous learning. |
 
 ---
 
-### <div align="center">📚 Knowledge Hub </div>
+### <div align="center">📚 Projects & Learning Hub </div>
 
 <p align="center">
-  A curated and evolving hub of technical documentation for security operations, infrastructure, and automations.<br>
+  A curated and evolving hub of projects, resources and documentation for security operations, privacy and automations.<br>
 </p>
 
 | Projects  | Goals |
 | --- | --- |
-| [Knowledge Base]| A curated and evolving hub of technical documentation for security operations, infrastructure, and automations. |
-| [Note LLM]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Documentation Hub]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-
+| [Knowledge Base]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Templates Hub]|  |
+| [Projectss]| |
 ---
 
 ### <div align="center">🌐 Connect with Me</div>
