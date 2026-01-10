@@ -50,17 +50,17 @@
 ### <div align="center"> Cyber Security Projects Portfolio</div>
 
 <p align="center">
-  Projects That Tell My Story<<br>
+  Projects That Tell My Story
 </p>
   
 | Projects  | Goals |
 | --- | --- |
-| [Home Security Lab](https://)  | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
-| [Running Apps in Containers](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [SC Python Automations](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [AI Security Bot](https://gi)  | AI bot that assists with investigations |
-| [Knowledge Base](https://g)  | Useful templates for documentation, operations and response plans. |
-| [AI Generated SOC Playbooks](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Home Security Lab] | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
+| [Running Apps in Containers] | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Python Automations for SecOps] | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [AI Security Bot] | AI bot that assists with investigations |
+| [Knowledge Base]| Useful templates for documentation, operations and response plans. |
+| [AI Generated Playbooks]  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
 
 ---
 
@@ -74,8 +74,7 @@
 | --- | --- |
 | [Knowledge Base]| A curated and evolving hub of technical documentation for security operations, infrastructure, and automations. |
 | [Note LLM]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Documentation Repo]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Configs & Tools]| AI bot that assists with investigations |
+| [Documentation Hub]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
 
 ---
 
