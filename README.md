@@ -47,14 +47,10 @@
 
 ---
 
-### <div align="center">🔥 Projects That Tell My Story</div>
+### <div align="center"> Cyber Security Projects Portfolio</div>
 
 <p align="center">
-  A curated and evolving hub of technical documentation for security operations, infrastructure, and automations.<br>
-</p>
-
-<p align="center">
-  🧠 <a href=hlink">Cyber Security Projects Portfolio</a>
+  Projects That Tell My Story<<br>
 </p>
   
 | Projects  | Goals |
@@ -68,21 +64,18 @@
 
 ---
 
-### <div align="center">📚 My KnowledgeBase </div>
+### <div align="center">📚 Knowledge Hub </div>
 
 <p align="center">
   A curated and evolving hub of technical documentation for security operations, infrastructure, and automations.<br>
 </p>
 
-<p align="center">
-  🧠 <a href=hlink">View the KnowledgeBase Repository</a>
-</p>
 | Projects  | Goals |
 | --- | --- |
-| [Knowledge Base](https://)  | Simulates log collection and correlation in Splunk or Elastic SIEM. Detect brute force, lateral movement, etc. |
-| [Notebook LLM](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Documentation Repo](https://github.c)  | Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Configs & Tools](https://gi)  | AI bot that assists with investigations |
+| [Knowledge Base]| A curated and evolving hub of technical documentation for security operations, infrastructure, and automations. |
+| [Note LLM]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Documentation Repo]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Configs & Tools]| AI bot that assists with investigations |
 
 ---
 
