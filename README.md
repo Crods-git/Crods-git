@@ -20,6 +20,35 @@
 
 ---
 
+### <div align="center"> Cyber Security Projects Portfolio</div>
+
+<p align="center">
+  My cybersecurity portfolio highlights key projects that tell my story. The primary goal of this portfolio is to demonstrate a holistic understanding of cybersecurity principles and the practical application of various tools and methodologies to protect digital assets..</p>
+  
+| Topic  | Goals |
+| --- | --- |
+| [Security Lab] | Integration of secyruty monitoring tools nad SIEM platform to monitor and analyze security events in real-time and simulate events. |
+| [Automations] | Development of Python scripts to automate repetitive tasks, enhancing efficiency in security operations. |
+| [AL-led Detection and Response] | Deployment of tools for detection and analysis, and implementation of AI Bot. |
+| [Assets and controls] | Implementation of cybersecurity frameworks to establish robust security controls and conduct thorough audits.
+| [Learning Hub]| Development of personal knowledge hub with digital notes, templates and response plans and continuous learning. |
+
+---
+
+### <div align="center">📚 Projects & Learning Hub </div>
+
+<p align="center">
+  A curated and evolving hub of projects, resources and documentation for security operations, privacy and automations.<br>
+</p>
+
+| Projects  | Goals |
+| --- | --- |
+| [Knowledge Base]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
+| [Projectss]| |
+| [Templates & Cheats]| |
+
+---
+
 ### <div align="center">🧠 Tech Stack</div>
 
 <p align="center">
@@ -45,35 +74,6 @@
   <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
----
-
-### <div align="center"> Cyber Security Projects Portfolio</div>
-
-<p align="center">
-  My cybersecurity portfolio highlights projects that tell my story. The primary goal of this portfolio is to demonstrate a holistic understanding of cybersecurity principles and the practical application of various tools and methodologies to protect digital assets..</p>
-  
-| Topic  | Goals |
-| --- | --- |
-| [Security Lab] | Integration of secyruty monitoring tools nad SIEM platform to monitor and analyze security events in real-time and simulate events. |
-| [Automations] | Development of Python scripts to automate repetitive tasks, enhancing efficiency in security operations. |
-| [AL-led Detection and Response] | Deployment of tools for detection and analysis, and implementation of AI Bot. |
-| [Assets and controls] | Implementation of cybersecurity frameworks to establish robust security controls and conduct thorough audits.
-| [Learning Hub]| Development of personal knowledge hub with digital notes, templates and response plans and continuous learning. |
-
----
-
-### <div align="center">📚 Projects & Learning Hub </div>
-
-<p align="center">
-  A curated and evolving hub of projects, resources and documentation for security operations, privacy and automations.<br>
-</p>
-
-| Projects  | Goals |
-| --- | --- |
-| [Knowledge Base]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Templates Hub]|  |
-| [Projectss]| |
----
 
 ### <div align="center">🌐 Connect with Me</div>
 
