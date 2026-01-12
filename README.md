@@ -27,11 +27,11 @@ The primary goal of my cybersecurity portfolio is to showcase projcets that demo
   
 | Topic  | Goals |
 | --- | --- |
-| [Security Lab] | Integration of secyruty monitoring tools nad SIEM platform to monitor and analyze security events in real-time and simulate events. |
-| [Automations] | Development of Python scripts to automate repetitive tasks, enhancing efficiency in security operations. |
-| [AL-led Detection and Response] | Deployment of tools for detection and analysis, and implementation of AI Bot. |
-| [Assets and controls] | Implementation of cybersecurity frameworks to establish robust security controls and conduct thorough audits.
-| [Learning Hub]| Development of personal knowledge hub with digital notes, templates and response plans and continuous learning. |
+| [Security Operations] | ISIEM-Driven Threat Detection with Automated SOAR Incident Response |
+| [Threat Management] | Development of Python scripts to automate repetitive tasks, enhancing efficiency in security operations. |
+| [AI & Automation] | Deployment of tools for detection and analysis, and implementation of AI Bot. |
+| [Assets & Compliance] | Implementation of cybersecurity frameworks to establish robust security controls and conduct thorough audits.
+| [Learning & Development]| Development of personal knowledge hub with digital notes, templates and response plans and continuous learning. |
 
 ---
 
