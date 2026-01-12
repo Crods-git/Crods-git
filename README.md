@@ -1,29 +1,32 @@
 
 ---
+Hi there 👋,
 
-### <div align="center">👨🏾‍💻 About Me</div>
+🎯 I’m passionate about all things cyber security, AI security, helping organazations with maturing and standardizing processess and mentoring others in the process.
 
-- **Name:** Chris Rodriguez
-- I'm currently working on: Implementing a security monitoring network and lab
-- I'm currently learning: AI security and automation workflows
-- **Current Interests:**
-  - AI led Security Operations
-  - MacOS Threat Detection
+### <div align="center">👨 About Me</div>
+
+🛠️ I’m currently working on:
+  - Developing a home monitoring network
+
+📚 I’m currently learning about:
+  - MacOS Malware Detection & Response
   - AI Security & Privacy
-  - Workflow Automation 
-- **Hobbies:**
-  - 🛠️ Learning AI 
-  - 🍳 Cooking like a pro  
-  - 🎮 Hiking  
+  - AI and workflow automation  
 
-> 🎯 I’m passionate about all things cyber security, maturing and standardizing processess, fortifying digital systems, and mentoring others in the process.
+🔭 In my free time, I:
+  - Working with AI 
+  - Cooking like a pro
+  - Hiking  
+
+
 
 ---
 
-### <div align="center"> Cyber Security Projects Portfolio</div>
+### <div align="center"> 🎯 Projects That Tell My Storu</div>
 
 <p align="center">
-  My cybersecurity portfolio highlights key projects that tell my story. The primary goal of this portfolio is to demonstrate a holistic understanding of cybersecurity principles and the practical application of various tools and methodologies to protect digital assets..</p>
+The primary goal of my cybersecurity portfolio is to showcase projcets that demonstrate a holistic understanding of cybersecurity principles and the practical application of various tools and methodologies to protect digital assets..</p>
   
 | Topic  | Goals |
 | --- | --- |
@@ -38,7 +41,7 @@
 ### <div align="center">📚 Projects & Learning Hub </div>
 
 <p align="center">
-  A curated and evolving hub of projects, resources and documentation for security operations, privacy and automations.<br>
+  An evolving hub of projects, resources and write-ups.<br>
 </p>
 
 | Projects  | Goals |
@@ -49,7 +52,7 @@
 
 ---
 
-### <div align="center">🧠 Tech Stack</div>
+### <div align="center">🧠 Technologies worked with</div>
 <p align="center">
   <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -85,7 +88,7 @@
 </p>
 
 
-### <div align="center">🌐 Connect with Me</div>
+### <div align="center">📬 Reach out to me at:e</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chris-rodriguez-a6b66389/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
