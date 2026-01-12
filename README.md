@@ -85,7 +85,7 @@ The primary goal of my cybersecurity portfolio is to showcase projcets that demo
 </p>
 
 
-### 📬 Reach out to me at:e
+### 📬 Reach out to me at:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chris-rodriguez-a6b66389/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
