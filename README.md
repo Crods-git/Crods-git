@@ -4,7 +4,7 @@ Hi there 👋,
 
 🎯 I’m passionate about all things cyber security, AI security, helping organazations with maturing and standardizing processess and mentoring others in the process.
 
-### <div align="center">👨 About Me</div>
+### 👨 About Me
 
 🛠️ I’m currently working on:
   - Developing a home monitoring network
@@ -18,14 +18,11 @@ Hi there 👋,
   - Working with AI 
   - Cooking like a pro
   - Hiking  
-
-
-
 ---
 
-### <div align="center"> 🎯 Projects That Tell My Storu</div>
+### 🎯 Projects That Tell My Story
 
-<p align="center">
+<p align="left">
 The primary goal of my cybersecurity portfolio is to showcase projcets that demonstrate a holistic understanding of cybersecurity principles and the practical application of various tools and methodologies to protect digital assets..</p>
   
 | Topic  | Goals |
@@ -38,22 +35,22 @@ The primary goal of my cybersecurity portfolio is to showcase projcets that demo
 
 ---
 
-### <div align="center">📚 Projects & Learning Hub </div>
+### 📚 Projects & Learning Hub
 
-<p align="center">
+<p align="left">
   An evolving hub of projects, resources and write-ups.<br>
 </p>
 
-| Projects  | Goals |
+| Title  | Description |
 | --- | --- |
 | [Knowledge Base]| Markdown documents with structured response plans for phishing, ransomware, and insider threats. |
-| [Projectss]| |
+| [Projects]| |
 | [Templates & Cheats]| |
 
 ---
 
-### <div align="center">🧠 Technologies worked with</div>
-<p align="center">
+### 🛠️ Technologies I've worked with
+<p align="left">
   <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/WINDOWS%20SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -88,9 +85,9 @@ The primary goal of my cybersecurity portfolio is to showcase projcets that demo
 </p>
 
 
-### <div align="center">📬 Reach out to me at:e</div>
+### 📬 Reach out to me at:e
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/chris-rodriguez-a6b66389/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
