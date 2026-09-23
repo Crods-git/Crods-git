@@ -2,23 +2,27 @@
 ---
 Hi there 👋,
 
-🎯 I’m passionate about all things cyber security, AI security, helping organazations with maturing and standardizing processess and mentoring others in the process.
+👨 About Me
+15+ years across defense, fintech, and B2B SaaS. I like being the person who turns "we need to be more secure" into a working process that doesn't annoy anyone. Currently at Doodle, owning the full stack:
+IT security operations, cyber security, AI governance, and multi-framework compliance.
 
-### 👨 About Me
+🛠️ I'm currently working on:
+- AI governance framework (EU AI Act, agentic AI, MCP risk)
+- NIST CSF 2.0 board-level reporting
+- Onboarding experience (the CEO's favourite topic)
+- A home monitoring network (because I can't stop)
 
-🛠️ I’m currently working on:
-  - Developing a home monitoring network
+📚 I'm currently learning about:
+- MacOS Malware Detection & Response
+- SSE/CASB architecture (Netskope)
+- AI workflow automation for security ops
 
-📚 I’m currently learning about:
-  - MacOS Malware Detection & Response
-  - AI Security & Privacy
-  - AI and workflow automation  
+🔭 In my free time:
+- Hiking
+- Cooking (like a pro, allegedly)
+- Building things I shouldn't need
 
-🔭 In my free time, I:
-  - Working with AI 
-  - Cooking like a pro
-  - Hiking  
----
+📍 Berlin · English · Spanish
 
 ### 🎯 Projects That Tell My Story
 
